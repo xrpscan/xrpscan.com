@@ -1,4 +1,6 @@
-# xrpscan.com
+# [Report a bug →](https://github.com/xrpscan/xrpscan.com/issues/new)
+
+## xrpscan.com
 We accept contributions from the community including bug reports, feature requests and exchange account identification.
 
 ## Features
