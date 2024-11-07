@@ -1,7 +1,7 @@
 # [Report a bug →](https://github.com/xrpscan/xrpscan.com/issues/new)
 
 ## xrpscan.com
-We accept contributions from the community including bug reports, feature requests and exchange account identification.
+We accept contributions from the community in terms of bug reports, feature requests and exchange account identification.
 
 ## Features
 If you wish to report a bug or request a new feature, check for [open requests](https://github.com/xrpscan/xrpscan.com/issues) by clicking the **Issues** tab above, or open a [fresh issue](https://github.com/xrpscan/xrpscan.com/issues/new/choose) to start a discussion around a feature idea or a bug.
